@@ -1,0 +1,2 @@
+D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\Definitions.TpPorteCpp.h
+D:\Unreal Projects\TpPorteCpp\Source\TpPorteCpp\TpPorteCpp.h

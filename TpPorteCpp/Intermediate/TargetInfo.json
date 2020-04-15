@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TpPorteCpp",
+			"Path": "D:\\Unreal Projects\\TpPorteCpp\\Source\\TpPorteCpp.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TpPorteCppEditor",
+			"Path": "D:\\Unreal Projects\\TpPorteCpp\\Source\\TpPorteCppEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

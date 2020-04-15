@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TpPorteCpp.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8D2BB301-F43A-4FE5-8559-2037CE5E46ED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TpPorteCpp.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TpPorteCppEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D7C4FBE4-4010-49A8-8C52-8EF4FF1F5209}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TpPorteCpp">
+      <UniqueIdentifier>{F6B36AF6-A9B3-4430-B53F-DA9006AEFF76}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TpPorteCpp\TpPorteCpp.Build.cs">
+      <Filter>Source\TpPorteCpp</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TpPorteCpp\TpPorteCpp.cpp">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TpPorteCpp\TpPorteCpp.h">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TpPorteCpp\TpPorteCppCharacter.cpp">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TpPorteCpp\TpPorteCppCharacter.h">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TpPorteCpp\TpPorteCppGameMode.cpp">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TpPorteCpp\TpPorteCppGameMode.h">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TpPorteCpp\TpPorteCppHUD.cpp">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TpPorteCpp\TpPorteCppHUD.h">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TpPorteCpp\TpPorteCppProjectile.cpp">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TpPorteCpp\TpPorteCppProjectile.h">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\TpPorteCpp\SwingDoor.h">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\TpPorteCpp\SwingDoor.cpp">
+      <Filter>Source\TpPorteCpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

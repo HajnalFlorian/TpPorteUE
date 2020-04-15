@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\TpPorteCpp\\Source\\TpPorteCpp\\TpPorteCpp.Build.cs",
+		"D:\\Unreal Projects\\TpPorteCpp\\Source\\TpPorteCpp.Target.cs",
+		"D:\\Unreal Projects\\TpPorteCpp\\Source\\TpPorteCppEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

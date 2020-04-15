@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TpPorteCpp-8333.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\TpPorteCppEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\SwingDoor.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\TpPorteCpp.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\TpPorteCppCharacter.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\TpPorteCppGameMode.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\TpPorteCppHUD.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\TpPorteCppProjectile.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\SwingDoor.gen.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\TpPorteCpp.init.gen.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\TpPorteCppCharacter.gen.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\TpPorteCppGameMode.gen.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\TpPorteCppHUD.gen.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\TpPorteCppProjectile.gen.cpp.obj"
+"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\Default.rc2.res"
+/OUT:"D:\Unreal Projects\TpPorteCpp\Intermediate\Build\Win64\UE4Editor\Development\TpPorteCpp\UE4Editor-TpPorteCpp-8333.lib"
+/INCLUDE:IMPLEMENT_MODULE_TpPorteCpp
